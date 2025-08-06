@@ -1,0 +1,7 @@
+pandas
+tqdm
+pydantic>=2
+streamlit>=1.35
+python-dotenv
+openai
+langgraph
